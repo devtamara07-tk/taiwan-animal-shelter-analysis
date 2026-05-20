@@ -14,6 +14,12 @@ This project analyzes Taiwan's animal shelter system using multiple government o
 
 ---
 
+## 🌐 Live Presentation
+
+👉 [Click here to view the presentation](https://devtamara07-tk.github.io/taiwan-animal-shelter-analysis/presentation_taiwan_animals_v4.html)
+
+---
+
 ## 📡 資料來源 / Data Sources
 
 | 資料集 | 說明 | 格式 |
